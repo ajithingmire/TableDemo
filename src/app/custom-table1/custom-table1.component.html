@@ -1,0 +1,48 @@
+<input type='text' style='padding:8px;margin:15px auto; width:30%;' placeholder='Type to filter the name column...' (keyup)='updateFilter($event)'
+/>
+
+<div>
+  <ngx-datatable 
+  style="height: 250px; width:250px" 
+  class="material" 
+  [rows]="rows"
+   [columns]="columns" 
+  [sortType]="'multi'"
+  [columnMode]="'flex'" 
+  [headerHeight]="20" 
+  [footerHeight]="50"
+  [rowHeight] = "20"
+  [scrollbarV]="true" 
+  [rowClass]="getRowClass"
+  >
+    <ngx-datatable-column name="CCY Pair" [flexGrow]="3" width=200px prop="ccyPair" headerClass="CCYHeader{{tabelNumber}}" cellClass="ccyColumn" >
+    </ngx-datatable-column>
+    <ngx-datatable-column name="balance" [flexGrow]="1" width=50px name="Balance" headerClass="BalanceHeader{{tabelNumber}}" cellClass="balanceColumn"
+    ></ngx-datatable-column>
+
+
+    <ngx-datatable-footer>
+        <ng-template 
+          ngx-datatable-footer-template 
+          let-rowCount="rowCount"
+          let-pageSize="pageSize"
+          let-selectedCount="selectedCount"
+          let-curPage="curPage"
+          let-offset="offset">
+          <div style="padding: 5px 10px" class="pagination">
+            <!-- <div>
+              Rows: {{rowCount}} |
+              Size: {{pageSize}} |
+              Current: {{curPage}} |
+              Offset: {{offset}}  | 
+            </div> -->         
+            <div *ngIf="rowCount - (pageSize*curPage) > 0" style="text-align:right">
+              {{rowCount - (pageSize*curPage)}} More...
+            </div>
+               
+          </div>
+        </ng-template>
+      </ngx-datatable-footer>
+
+  </ngx-datatable> 
+</div>

@@ -1,0 +1,203 @@
+[
+    {
+        "countryID": 1,
+        "balance": 1245,
+        "ccyPair": "India - INR"
+    },
+   
+    {
+        "countryID": 2,
+        "balance": 2345,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 3,
+        "balance": 4567,
+        "ccyPair": "Singapore - SGD"
+    },
+    {
+        "countryID": 4,
+        "balance": 5678,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 5,
+        "balance": 5214,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 6,
+        "balance": 3265,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 7,
+        "balance": 9547,
+        "ccyPair": "Singapore - SGD"
+    },
+    {
+        "countryID": 8,
+        "balance": 9658,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 9,
+        "balance": 5236,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 10,
+        "balance": 9658,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 11,
+        "balance": 3215,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 12,
+        "balance": 5624,
+        "ccyPair": "Singapore - SGD"
+    },
+    {
+        "countryID": 13,
+        "balance": 9658,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 14,
+        "balance": 3695,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 15,
+        "balance": 8452,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 16,
+        "balance": 2587,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 17,
+        "balance": 9658,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 18,
+        "balance": 5624,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 19,
+        "balance": 9531,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 20,
+        "balance": 9658,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 21,
+        "balance": 7514,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 22,
+        "balance": 3512,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 23,
+        "balance": 9658,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 24,
+        "balance": 2341,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 25,
+        "balance": 5624,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 26,
+        "balance": 6523,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 27,
+        "balance": 9658,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 28,
+        "balance": 4521,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 29,
+        "balance": 3561,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 30,
+        "balance": 1573,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 31,
+        "balance": 9658,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 32,
+        "balance": 7193,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 33,
+        "balance": 9317,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 34,
+        "balance": 5624,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 35,
+        "balance": 9658,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 36,
+        "balance": 6245,
+        "ccyPair": "Australia - AUD"
+    },
+    {
+        "countryID": 37,
+        "balance": 5624,
+        "ccyPair": "United States of America - USD"
+    },
+    {
+        "countryID": 38,
+        "balance": 9658,
+        "ccyPair": "India - INR"
+    },
+    {
+        "countryID": 39,
+        "balance": 7548,
+        "ccyPair": "Canada - CAD"
+    },
+    {
+        "countryID": 40,
+        "balance": 5624,
+        "ccyPair": "United States of America - USD"
+    }
+]

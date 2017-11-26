@@ -1,0 +1,38 @@
+:host /deep/ .datatable-body-row {
+    font-size: 12px
+}
+:host /deep/ .balanceColumn{
+    text-align: right;
+}
+
+/* Table even rows */
+:host /deep/  .evenRowTable1{     background-color: #30C930}
+:host /deep/  .evenRowTable2{     background-color:  #F70E0E }
+:host /deep/  .evenRowTable3{     background-color:  #2525DA }
+:host /deep/  .evenRowTable4{     background-color:  #F5F51E }
+:host /deep/  .evenRowTable5{     background-color:  #FD0D39 }
+:host /deep/  .evenRowTable6{     background-color:  #8E0EF0 }
+
+/* Table Odd Rows - dark colors*/    
+:host /deep/  .oddRowTable1{     background-color: #5AB862 }
+:host /deep/  .oddRowTable2{     background-color: #DF2F2F }
+:host /deep/  .oddRowTable3{     background-color: #1F1F8D  }
+:host /deep/  .oddRowTable4{     background-color: #7A7A1E  }
+:host /deep/  .oddRowTable5{     background-color: #B13F54  }
+:host /deep/  .oddRowTable6{     background-color: #BB8DDF  }
+
+/* CCY Pairing Column Header*/
+:host /deep/  .CCYHeader1 {    background-color: #5AB862  }
+:host /deep/  .CCYHeader2 {     background-color: #DF2F2F }
+:host /deep/  .CCYHeader3 {     background-color: #1F1F8D }
+:host /deep/  .CCYHeader4 {     background-color: #7A7A1E }
+:host /deep/  .CCYHeader5 {     background-color: #B13F54 }
+:host /deep/  .CCYHeader6 {     background-color: #BB8DDF }
+
+/* Balance Column Header*/
+:host /deep/  .BalanceHeader1 {     background-color: #5AB862; text-align: right; }
+:host /deep/  .BalanceHeader2 {     background-color: #DF2F2F; text-align: right; }
+:host /deep/  .BalanceHeader3 {     background-color: #1F1F8D; text-align: right; }
+:host /deep/  .BalanceHeader4 {     background-color: #7A7A1E; text-align: right; }
+:host /deep/  .BalanceHeader5 {     background-color: #B13F54; text-align: right; }
+:host /deep/  .BalanceHeader6 {     background-color: #BB8DDF; text-align: right; }

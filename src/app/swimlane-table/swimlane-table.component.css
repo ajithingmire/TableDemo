@@ -1,0 +1,37 @@
+:host /deep/ .datatable-body-row {
+    font-size: 10px
+}
+
+
+
+
+:host /deep/ .datatable-row-even {
+    background-color: #00FF15
+    
+}
+:host /deep/ .datatable-row-odd {
+    background-color: #5AB862
+}
+
+:host /deep/  .balanceColumn{
+        text-align: right;
+        opacity: 0.9;
+}
+
+:host /deep/  .headerClassBalance{
+text-align : right;
+background-color: #5AB862;
+opacity: 0.9;
+}
+
+:host /deep/ .ccyColumn{
+    text-align: left;
+    opacity: 0.7;    
+}
+
+:host /deep/  .headerClassCCY{
+    text-align: left;
+    opacity: 0.7;
+    background-color: #5AB862
+}
+

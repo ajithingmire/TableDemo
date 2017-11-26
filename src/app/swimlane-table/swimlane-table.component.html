@@ -1,0 +1,11 @@
+<input type='text' style='padding:8px;margin:15px auto;width:30%;' placeholder='Type to filter the name column...' (keyup)='updateFilter($event)'
+/>
+<div>
+  <ngx-datatable style="height: 439px; width:250px" class="material" [rows]="rows" [columns]="columns" [sortType]="'multi'"
+    [columnMode]="'flex'" [headerHeight]="20" [footerHeight]="50" [scrollbarV]="true">
+    <ngx-datatable-column name="CCY Pair" [flexGrow]="3" width=200px prop="ccyPair" headerClass="headerClassCCY" cellClass="ccyColumn" >
+    </ngx-datatable-column>
+    <ngx-datatable-column name="balance" [flexGrow]="1" name="Balance" headerClass="headerClassBalance" cellClass="balanceColumn"
+    ></ngx-datatable-column>
+  </ngx-datatable> 
+</div>
